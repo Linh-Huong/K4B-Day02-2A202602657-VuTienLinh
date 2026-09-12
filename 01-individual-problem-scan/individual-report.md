@@ -219,19 +219,22 @@ File đính kèm: `01-individual-problem-scan-workflow-card-3.png`
 
 **Card tôi muốn pitch nhất:**
 
-```Đối soát và nhập liệu chi tiêu xé lẻ từ app ngân hàng sang Notion/Excel quản lý cá nhân.
+```text
+Đối soát và nhập liệu chi tiêu xé lẻ từ app ngân hàng sang Notion/Excel quản lý cá nhân.
 
 ```
 
 **Vì sao (2-3 câu: workflow gì, số đo gì, impact gì):**
 
-```Tôi chọn bài toán này vì quy trình hiện tại đòi hỏi người dùng phải tự đối chiếu lịch sử app ngân hàng và gõ tay phân loại từng giao dịch sang Notion, tạo ra một "nút thắt" tâm lý rất lớn vào cuối ngày. Nó không chỉ tiêu tốn gần 2.5 tiếng/tuần mà còn dễ gây sai số (thường xuyên lệch 20k-50k do quên nhập các khoản lặt vặt), dẫn đến tâm lý chán nản và từ bỏ quản lý tài chính. Đây là case study hoàn hảo có tần suất lặp lại hàng ngày, vòng đời người dùng (retention) cao, và impact nhìn thấy ngay lập tức nếu AI xử lý được khâu trích xuất - phân loại tự động.
+```text
+Tôi chọn bài toán này vì quy trình hiện tại đòi hỏi người dùng phải tự đối chiếu lịch sử app ngân hàng và gõ tay phân loại từng giao dịch sang Notion, tạo ra một "nút thắt" tâm lý rất lớn vào cuối ngày. Nó không chỉ tiêu tốn gần 2.5 tiếng/tuần mà còn dễ gây sai số (thường xuyên lệch 20k-50k do quên nhập các khoản lặt vặt), dẫn đến tâm lý chán nản và từ bỏ quản lý tài chính. Đây là case study hoàn hảo có tần suất lặp lại hàng ngày, vòng đời người dùng (retention) cao, và impact nhìn thấy ngay lập tức nếu AI xử lý được khâu trích xuất - phân loại tự động.
 
 ```
 
 **Câu hỏi tôi muốn nhóm challenge (1-2 câu hỏi đúng chỗ yếu):**
 
-```1. "Nếu người dùng chi tiêu bằng tiền mặt ở các quán trà đá, gửi xe (không có hóa đơn hay thông báo app), thì hệ thống này lấy dữ liệu đầu vào kiểu gì để không bắt người dùng phải quay lại nhập tay?"
+```text
+1. "Nếu người dùng chi tiêu bằng tiền mặt ở các quán trà đá, gửi xe (không có hóa đơn hay thông báo app), thì hệ thống này lấy dữ liệu đầu vào kiểu gì để không bắt người dùng phải quay lại nhập tay?"
 2. "Liệu có đang bị lạm dụng AI (Over-engineering) không, khi mà chỉ cần dùng các công cụ tự động hóa thông thường (như Macrodroid đọc SMS bằng Regex) là đã có thể lấy được số tiền và nội dung rồi?"
 
 ```
@@ -241,6 +244,6 @@ File đính kèm: `01-individual-problem-scan-workflow-card-3.png`
 - Tôi sửa gì:
 
 ### Self-check nộp phần 01
-- [ ] Có 5+ problems + top 3 Cards đủ field
-- [ ] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
-- [ ] Đã chọn 1 card pitch + câu hỏi challenge
+- [x] Có 5+ problems + top 3 Cards đủ field
+- [x] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
+- [x] Đã chọn 1 card pitch + câu hỏi challenge
